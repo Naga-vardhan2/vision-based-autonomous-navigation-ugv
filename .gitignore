@@ -1,0 +1,31 @@
+# ROS 2 / Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+install/
+log/
+
+# ROS / colcon
+.colcon/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python environments
+.venv/
+venv/
+
+# Generated simulation files
+*.bag
+*.db3
+
+# Large media
+*.mp4
+*.avi
+*.mov
